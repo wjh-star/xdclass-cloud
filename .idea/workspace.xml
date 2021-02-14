@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a27966af-375b-4594-9ded-a9d962ab9df8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/xdclass-order-service/src/main/java/net/xdclass/service/VideoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xdclass-common/src/main/java/net/xdclass/domain/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/xdclass-common/src/main/java/net/xdclass/domain/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xdclass-common/src/main/java/net/xdclass/domain/VideoOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/xdclass-common/src/main/java/net/xdclass/domain/VideoOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xdclass-order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xdclass-order-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xdclass-order-service/src/main/java/net/xdclass/OrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xdclass-order-service/src/main/java/net/xdclass/OrderApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xdclass-order-service/src/main/java/net/xdclass/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xdclass-order-service/src/main/java/net/xdclass/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xdclass-order-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xdclass-order-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xdclass-video-service/src/main/java/net/xdclass/controller/VideoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xdclass-video-service/src/main/java/net/xdclass/controller/VideoController.java" afterDir="false" />
-    </list>
+    <list default="true" id="a27966af-375b-4594-9ded-a9d962ab9df8" name="Default Changelist" comment="&quot;&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,8 +131,23 @@
       <workItem from="1613183503517" duration="804000" />
       <workItem from="1613184324264" duration="1696000" />
       <workItem from="1613186044643" duration="4646000" />
-      <workItem from="1613276660790" duration="9511000" />
+      <workItem from="1613276660790" duration="9689000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;&quot;">
+      <created>1613310489234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613310489234</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;&quot;">
+      <created>1613310606385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613310606385</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,5 +163,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;&quot;" />
   </component>
 </project>
