@@ -3,7 +3,7 @@ package net.xdclass.domain;
 import java.util.Date;
 
 public class Video {
-    
+
     private Integer id;
     private String title;
     private String summary;
@@ -11,6 +11,15 @@ public class Video {
     private Integer price;
     private Date createTime;
     private Double point;
+    private String serviceInfo;
+
+    public String getServiceInfo() {
+        return serviceInfo;
+    }
+
+    public void setServiceInfo(String serviceInfo) {
+        this.serviceInfo = serviceInfo;
+    }
 
     public Integer getId() {
         return id;

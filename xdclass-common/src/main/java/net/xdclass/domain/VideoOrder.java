@@ -12,6 +12,15 @@ public class VideoOrder {
     private String videoTitle;
     private String videoImg;
     private Integer userId;
+    private String serviceInfo;
+
+    public String getServiceInfo() {
+        return serviceInfo;
+    }
+
+    public void setServiceInfo(String serviceInfo) {
+        this.serviceInfo = serviceInfo;
+    }
 
     public Integer getId() {
         return id;
