@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xdclass-cloud.iml" filepath="$PROJECT_DIR$/xdclass-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdclass-common/xdclass-common.iml" filepath="$PROJECT_DIR$/xdclass-common/xdclass-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdclass-order-service/xdclass-order-service.iml" filepath="$PROJECT_DIR$/xdclass-order-service/xdclass-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdclass-user-service/xdclass-user-service.iml" filepath="$PROJECT_DIR$/xdclass-user-service/xdclass-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdclass-video-service/xdclass-video-service.iml" filepath="$PROJECT_DIR$/xdclass-video-service/xdclass-video-service.iml" />
+    </modules>
+  </component>
+</project>
